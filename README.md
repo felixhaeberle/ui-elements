@@ -9,6 +9,6 @@ Feel free to fork.
 
 Simply download the snippets you need out of the code.
 
-## updatedCounted
+## Update
 
 - Repo filling starts in March 2018
